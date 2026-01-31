@@ -3,7 +3,7 @@ import PackageDescription
 
 let version = "0.9.0-renamed"
 let mediasoupChecksum = "9a7b41413826ac9488980a2b0adb6f99abb78505579bde2f972fae73623d8234"
-let webrtcChecksum = "c1327dafae9e2feff083219446322dab4451029ce3ecdaa5e8bd3c0ed640ac45"
+let webrtcChecksum = "4d2521902c0108aa58861cb5db4182f0772914b9e014c8a61f3f6089f7a1a8a3"
 
 let package = Package(
     name: "Mediasoup-Client-Swift",
