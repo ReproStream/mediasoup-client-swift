@@ -24,12 +24,12 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Mediasoup",
-            url: "https://github.com/YOUR-ORG/mediasoup-client-swift/releases/download/0.9.0-renamed/Mediasoup.xcframework.zip",
+            url: "https://github.com/ReproStream/mediasoup-client-swift/releases/download/0.9.0-renamed/Mediasoup.xcframework.zip",
             checksum: mediasoupChecksum
         ),
         .binaryTarget(
             name: "MediasoupWebRTC",
-            url: "https://github.com/YOUR-ORG/mediasoup-client-swift/releases/download/0.9.0-renamed/MediasoupWebRTC.xcframework.zip",
+            url: "https://github.com/ReproStream/mediasoup-client-swift/releases/download/0.9.0-renamed/MediasoupWebRTC.xcframework.zip",
             checksum: webrtcChecksum
         )
     ]
