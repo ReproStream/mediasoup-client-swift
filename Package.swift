@@ -2,7 +2,7 @@
 import PackageDescription
 
 let version = "0.9.0-renamed"
-let mediasoupChecksum = "7c20e27971c05eebe380516fd50157261430a723ad75707612719c6b90d07e19"
+let mediasoupChecksum = "2a4cc0cb5bb2b3e63b0d8651b87a38631bdf29700f1929c0b8bd6d8b3594bcff"
 let webrtcChecksum = "e41c957d0d7134930b83174e8e912cc2af996613e0061c0400a2840af7e8e4e4"
 
 let package = Package(
